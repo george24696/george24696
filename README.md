@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate developer exploring the intersect
 **Databases:** PostgreSQL, Firebase, SQLite  
 
 ## 📫 Connect With Me
-- 📩 Email: george.mtombeni@example.com
+- 📩 Email: george.mtombeni.com@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/george-mtombeni](https://linkedin.com/in/george-mtombeni)
 - 🐦 Twitter: [@george_dev](/#)
 
