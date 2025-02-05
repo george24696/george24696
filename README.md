@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer exploring the intersect
 ## 🚀 About Me
 - 💻 **Tech Enthusiast:** Working on AI-powered applications, full-stack development, and embedded systems.
 - 🎯 **Currently Learning:** Machine learning, computer vision, and automation tools.
-- 🎥 **YouTube Channel:** [AI Backend](https://www.youtube.com/channel/your-link) (Will be releasing tutorials soon!)
+- 🎥 **YouTube Channel:** [AI Backend](https://www.youtube.com/@ai_backend) (Will be releasing tutorials soon!)
 - 🌱 **Open to Collaborations:** Always up for working on interesting AI and software projects!
 
 ## 🔥 Featured Projects
