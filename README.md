@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate developer exploring the intersect
 
 ## 📫 Connect With Me
 - 📩 Email: george.mtombeni.com@gmail.com
-- 🔗 LinkedIn: [linkedin.com/in/george-mtombeni]([https://linkedin.com/in/george-mtombeni](https://www.linkedin.com/in/george-mtombeni-04948b211/))
+- 🔗 LinkedIn: https://www.linkedin.com/in/george-mtombeni-04948b211/
 - 🐦 Twitter: [@george_dev](/#)
 
 Thanks for stopping by! Let's build something amazing together! 🚀
