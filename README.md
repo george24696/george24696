@@ -9,10 +9,9 @@ Welcome to my GitHub profile! I'm a passionate developer exploring the intersect
 - 🌱 **Open to Collaborations:** Always up for working on interesting AI and software projects!
 
 ## 🔥 Featured Projects
-- 🖥️ [Wireless PC Remote](/#) - Control your laptop using your phone via custom keyboard shortcuts.
-- 📊 [AI-Powered Dashboard](/#) - A Streamlit dashboard displaying YOLOv8 model outputs.
-- 🏗️ [3D Model Viewer](/#) - Interactive 3D visualization using Python and OpenGL.
-- 🎙️ [Local AI Voice Assistant](/#) - A personal assistant using OpenAI's TTS API.
+- 🖥️ [cvision_control_3](https://github.com/24861723/cvision_control_3) - Python program that allows the user to control system brightness and volume using hand gestures.
+- 🏗️ [3D_Hand_Control](https://github.com/24861723/3D_Hand_Control) - This python program let's you use hand gestures to control the 3D Model view on fetchcfd.com
+- 🎙️ [Final Mark Calculator](https://github.com/24861723/final_mark_calculator) - Program uses your A1 and SM to calculate what percentage of marks you need to pass or get a distiction on a specific module
 
 ## 🛠️ Tech Stack
 **Languages:** Python, JavaScript, C++, HTML/CSS  
@@ -21,9 +20,8 @@ Welcome to my GitHub profile! I'm a passionate developer exploring the intersect
 **Databases:** PostgreSQL, Firebase, SQLite  
 
 ## 📫 Connect With Me
-- 📩 Email: george.mtombeni.com@gmail.com
+- 📩 Email: 24861723@sun.ac.za
 - 🔗 LinkedIn: https://www.linkedin.com/in/george-mtombeni-04948b211/
-- 🐦 Twitter: [@george_dev](/#)
 
 Thanks for stopping by! Let's build something amazing together! 🚀
 
