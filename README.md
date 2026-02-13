@@ -2,7 +2,6 @@
 
 Welcome to my GitHub profile! I'm a passionate developer exploring the intersection of AI, software development, and embedded systems. I love building projects that solve real-world problems and sharing my journey with others.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=george24696&show_icons=true&locale=en&layout=compact" alt="george24696" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=george24696&show_icons=true&locale=en" alt="george24696" /></p>
 
