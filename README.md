@@ -2,6 +2,12 @@
 
 Welcome to my GitHub profile! I'm a passionate developer exploring the intersection of AI, software development, and embedded systems. I love building projects that solve real-world problems and sharing my journey with others.
 
+## 🚀 About Me
+- 💻 **Tech Enthusiast:** Working on AI-powered applications, full-stack development, and embedded systems.
+- 🎯 **Currently Learning:** Machine learning, computer vision, and automation tools.
+- 🎥 **YouTube Channel:** [AI Backend](https://www.youtube.com/@ai_backend) (Will be releasing tutorials soon!)
+- 🌱 **Open to Collaborations:** Always up for working on interesting AI and software projects!
+
 ## 🔥 Featured Projects
 - 🖥️ [cvision_control_3](https://github.com/24861723/cvision_control_3) - Python program that allows the user to control system brightness and volume using hand gestures.
 - 🏗️ [3D_Hand_Control](https://github.com/24861723/3D_Hand_Control) - This python program let's you use hand gestures to control the 3D Model view on fetchcfd.com
@@ -13,11 +19,5 @@ Welcome to my GitHub profile! I'm a passionate developer exploring the intersect
 **Embedded Systems:** ESP32, STM32, LoRa, GSM Modules  
 **Databases:** PostgreSQL, Firebase, SQLite  
 
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=george24696&" alt="george24696" /></p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/georgemtombeni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="georgemtombeni" height="30" width="40" /></a>
-</p>
+## 📫 Connect With Me
+- 🔗 LinkedIn: https://www.linkedin.com/in/george-mtombeni-04948b211/
